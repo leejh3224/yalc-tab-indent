@@ -1,0 +1,16 @@
+{
+	"name": "yalc-tab-indent",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --bail=0"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"detect-indent": "^6.0.0",
+		"jest": "^26.6.3"
+	}
+}
